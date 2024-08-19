@@ -7,7 +7,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Profile-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@irfanullahkhan7748) 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=email)](mailto:programmarself@gmail.com)
-[![Website](https://img.shields.io/badge/Website-Contact%20Me-red?style=for-the-badge&logo=website)](https://datasciencetoyou.odoo.com)
+[![Website](https://img.shields.io/badge/Website-Contact%20Me-red?style=for-the-badge&logo=website)](https://flowcv.me/ikm)
 # RNN (Recurrent Neural Network) & LSTM (Long Short-Term Memory)
 Imagine you have a magical weather-predicting friend named “Rehman”.
 Rehman the Weather Predictor (RNN)
